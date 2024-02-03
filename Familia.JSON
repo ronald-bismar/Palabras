@@ -1,0 +1,114 @@
+[
+    {
+        "seccion": "Familia",
+        "nivelDeAprendizaje": 1,
+        "enAymara": ["tata"],
+        "enEspañol": ["papá", "padre"],
+        "imagen": "direccionDeLaImagen",
+        "palabraCorrecta": false,
+        "esOracion": false,
+        "fueAcertada": false,
+        "pronunciacion": "direccion del sonido"
+    },
+{
+        "seccion": "Familia",
+        "nivelDeAprendizaje": 1,
+        "enAymara": ["mama"],
+        "enEspañol": ["mamá", "madre"],
+        "imagen": "direccionDeLaImagen",
+        "palabraCorrecta": false,
+        "esOracion": false,
+        "fueAcertada": false,
+        "pronunciacion": "direccion del sonido"
+    },{
+        "seccion": "Familia",
+        "nivelDeAprendizaje": 1,
+        "enAymara": ["jila", "jilata"],
+        "enEspañol": ["hermano"],
+        "imagen": "direccionDeLaImagen",
+        "palabraCorrecta": false,
+        "esOracion": false,
+        "fueAcertada": false,
+        "pronunciacion": "direccion del sonido"
+    },{
+        "seccion": "Familia",
+        "nivelDeAprendizaje": 1,
+        "enAymara": ["Aski urukïpan jilata"],
+        "enEspañol": ["buenos dias hermano", "buenos días hermano", "buen dia hermano", "buen día hermano"],
+        "imagen": "direccionDeLaImagen",
+        "palabraCorrecta": false,
+        "esOracion": true,
+        "fueAcertada": false,
+        "pronunciacion": "direccion del sonido"
+    },{
+        "seccion": "Familia",
+        "nivelDeAprendizaje": 1,
+        "enAymara": ["kullaka"],
+        "enEspañol": ["hermana"],
+        "imagen": "direccionDeLaImagen",
+        "palabraCorrecta": false,
+        "esOracion": false,
+        "fueAcertada": false,
+        "pronunciacion": "direccion del sonido"
+    },{
+        "seccion": "Familia",
+        "nivelDeAprendizaje": 1,
+        "enAymara": ["jilaku"],
+        "enEspañol": ["primo"],
+        "imagen": "direccionDeLaImagen",
+        "palabraCorrecta": false,
+        "esOracion": false,
+        "fueAcertada": false,
+        "pronunciacion": "direccion del sonido"
+    },{
+        "seccion": "Familia",
+        "nivelDeAprendizaje": 1,
+        "enAymara": ["kullaka"],
+        "enEspañol": ["hermana"],
+        "imagen": "direccionDeLaImagen",
+        "palabraCorrecta": false,
+        "esOracion": false,
+        "fueAcertada": false,
+        "pronunciacion": "direccion del sonido"
+    },{
+        "seccion": "Familia",
+        "nivelDeAprendizaje": 1,
+        "enAymara": ["achachila"],
+        "enEspañol": ["abuelo"],
+        "imagen": "direccionDeLaImagen",
+        "palabraCorrecta": false,
+        "esOracion": false,
+        "fueAcertada": false,
+        "pronunciacion": "direccion del sonido"
+    },{
+        "seccion": "Familia",
+        "nivelDeAprendizaje": 1,
+        "enAymara": ["awicha"],
+        "enEspañol": ["abuela"],
+        "imagen": "direccionDeLaImagen",
+        "palabraCorrecta": false,
+        "esOracion": false,
+        "fueAcertada": false,
+        "pronunciacion": "direccion del sonido"
+    },{
+        "seccion": "Familia",
+        "nivelDeAprendizaje": 1,
+        "enAymara": ["yuqa"],
+        "enEspañol": ["hijo"],
+        "imagen": "direccionDeLaImagen",
+        "palabraCorrecta": false,
+        "esOracion": false,
+        "fueAcertada": false,
+        "pronunciacion": "direccion del sonido"
+    },{
+        "seccion": "Familia",
+        "nivelDeAprendizaje": 1,
+        "enAymara": ["phucha"],
+        "enEspañol": ["hija"],
+        "imagen": "direccionDeLaImagen",
+        "palabraCorrecta": false,
+        "esOracion": false,
+        "fueAcertada": false,
+        "pronunciacion": "direccion del sonido"
+    }
+]
