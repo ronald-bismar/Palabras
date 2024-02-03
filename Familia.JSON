@@ -110,5 +110,15 @@
         "esOracion": false,
         "fueAcertada": false,
         "pronunciacion": "direccion del sonido"
+    },{
+        "seccion": "Familia",
+        "nivelDeAprendizaje": 1,
+        "enAymara": ["phucha"],
+        "enEspañol": ["hija"],
+        "imagen": "direccionDeLaImagen",
+        "palabraCorrecta": false,
+        "esOracion": false,
+        "fueAcertada": false,
+        "pronunciacion": "direccion del sonido"
     }
 ]
